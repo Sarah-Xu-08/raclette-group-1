@@ -1,7 +1,13 @@
 # raclette-group-1
 
-HELLO
+## Neuromatch Introduction
 
+## Group Member
+
+
+## Dataset Info 
+
+## Abstract 
 
 data reference:
 Miller, Kai J., et al. "Decoupling the cortical power spectrum reveals real-time representation of individual finger movements in humans." Journal of Neuroscience 29.10 (2009): 3132-3137.
