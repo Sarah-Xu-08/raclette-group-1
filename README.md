@@ -1,4 +1,4 @@
-# raclette-group-1
+# Raclette-Group-1
 ## Group Members
 1. Xin Xu
 2. Yukai Xu
