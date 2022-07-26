@@ -11,7 +11,7 @@
 Pod TA : Run Wang <br/>
 Project TA : Vinsea Singh 
 ## Dataset Info 
-## The Mindmap
+## Mindmap
 
 ## Abstract
 #### Using CNN/CAM to differentiate finger flexion movements 
