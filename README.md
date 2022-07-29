@@ -21,13 +21,12 @@ ECoG-based human motion prediction aims to predict future motion frames to guide
 Visuospatial attention prioritizes the processing of visual inputs. According to previous research (*Benoni & Tsal, 2010*), there is a high possibility that the wrong response is caused by low attention levels or large attentional variations. In the ECoG-fingerflex dataset by *Miller, et al. (2009)*, we noticed that participants sometimes flex different fingers from what the cue on the screen asked.  Based on the wrong response subsets in the dataset, we assume that there is some modulation or switch in the attention state. Spectral-spatial patterns in dataset intersections’ across overlapping brain regions may pinpoint regions related to the finger-flexion preparation and execution. An investigation of the participants' response time is fairly standard in the study of attention, which helps visualize patterns, discrepancies, and trade-offs in accuracy discreetly. Additionally, attention could also be characterized by the spatial-temporal dynamics of the alpha oscillation (8-14Hz). The increase in alpha activity has been associated with a loss in attentional load. Meanwhile, it is believed that synchronization between frontal and parietal areas acts as a general mechanism for the detection of attention levels. We use the response time (RT), alpha-band activity and the synchronization between frontal and parietal areas as the criteria for the correlation between the attentional level and correct/wrong response. 
 
 ## Final presentation
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0lIJAujyKbNkG3FSoyd3j-o3QI0tXUX8sFbnoucqmaVljiPlQYdVa0S0znrVNrV8SqdvQTDolhdSh/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 ## Meeting Slides
 1. [Brainstorming session](https://docs.google.com/presentation/d/1oOcqCI9RsYkhu6LSPk5UuwvbnWRgGwtNo2erSWP-gtM/edit?usp=sharing)
 2. [Getting started](https://docs.google.com/presentation/d/1NoCIEduDeY2RKFfY2DT-oXs9D2Xr8haTIWwjKTW8omg/edit?usp=sharing)
-3. [Preliminary Results]
-4. [Final Presentation]
+3. [Final Presentation](https://docs.google.com/presentation/d/1w-IH3ySGQMEGaNfr3P3HMGXgGaDptEEFbB-5vKsDUHc/edit?usp=sharing)
 
 ## Reference
 1. Miller, Kai J., et al. "Decoupling the cortical power spectrum reveals real-time representation of individual finger movements in humans." Journal of Neuroscience 29.10 (2009): 3132-3137.
