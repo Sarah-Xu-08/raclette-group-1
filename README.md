@@ -6,7 +6,7 @@
 4. Vitto Resnick
 5. Doris Zhang
 6. Juee Dhar
-7. Chetan Sharaf
+
 
 Pod TA : Run Wang <br/>
 Project TA : Vinsea Singh 
