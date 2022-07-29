@@ -23,6 +23,10 @@ Visuospatial attention prioritizes the processing of visual inputs. According to
 2. [Getting started](https://docs.google.com/presentation/d/1NoCIEduDeY2RKFfY2DT-oXs9D2Xr8haTIWwjKTW8omg/edit?usp=sharing)
 3. [Final Presentation](https://docs.google.com/presentation/d/1w-IH3ySGQMEGaNfr3P3HMGXgGaDptEEFbB-5vKsDUHc/edit?usp=sharing)
 
+### Final Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zU8p9AOiTkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Reference
 1. Miller, Kai J., et al. "Decoupling the cortical power spectrum reveals real-time representation of individual finger movements in humans." Journal of Neuroscience 29.10 (2009): 3132-3137.
 2. Miller, Kai J., et al. "Human motor cortical activity is selectively phase-entrained on underlying rhythms." (2012): e1002655.
