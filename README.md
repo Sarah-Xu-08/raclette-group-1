@@ -10,8 +10,6 @@
 
 Pod TA : Run Wang <br/>
 Project TA : Vinsea Singh 
-## Dataset Info 
-
 
 ## Abstract
 #### Using CNN/CAM to differentiate finger flexion movements 
